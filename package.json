@@ -1,0 +1,19 @@
+{
+  "name": "react-intro",
+  "version": "1.0.0",
+  "description": "Introduction screencasts for React.js",
+  "main": "index.js",
+  "scripts": {
+    "build": "jsx src/ build/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hojberg/react-intro.git"
+  },
+  "author": "Simon Højberg <r.hackr@gmail.com> (http://icreateui.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hojberg/react-intro/issues"
+  },
+  "homepage": "https://github.com/hojberg/react-intro"
+}
